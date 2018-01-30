@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\BulletHit.js">
+    <Files>
+      <File FileName="Assets\scripts\BulletHit.js" Line="7" Column="1" />
+      <File FileName="Assets\scripts\destroyer.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\changeDisplay.js" Line="18" Column="51" />
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\CharacterMotor.js" Line="17" Column="6" />
+      <File FileName="Assets\Standard Assets\Scripts\Camera Scripts\SmoothFollow.js" Line="24" Column="1" />
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\FPSInputController.js" Line="14" Column="43" />
+      <File FileName="Assets\scripts\camerachanging.js" Line="13" Column="34" />
+      <File FileName="Assets\scripts\bulletshooter.js" Line="12" Column="18" />
+      <File FileName="Assets\scripts\AmmoDisplay.js" Line="10" Column="2" />
+      <File FileName="Assets\scripts\WinDisplay.js" Line="9" Column="6" />
+      <File FileName="Assets\scripts\activescript.js" Line="9" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
